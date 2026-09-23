@@ -13,8 +13,8 @@
 - `<a>`
 #### Page title
  Example Domains
- ###### How many headings
-   one
+ #### How many headings
+   1
 ------------------
  ## Website 2
    [website](https://developer.mozila.com)
