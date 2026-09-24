@@ -1,0 +1,26 @@
+<!-- Good:Semantic version -->
+<header>
+    <div class="logo">My Site</div>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact\</a>
+        <nav>
+        </header>
+        <main>
+            <article>
+                <h1>Welcome to My Site</h1>
+                <p>This is my first paragraph...</p>
+                <p>This is my second paragraph...</p>
+            </article>
+            <aside>
+                <h2>Recent Posts</h2>
+                <ul>
+                    <li>Post 1</li>
+                    <li>Post 2</li
+        </aside>
+        </main>
+        <footer>
+            <p>&copy; 2026 My Site</p
+
+    
